@@ -1,3 +1,7 @@
+## [2.1.1](https://github.com/ghoshRitesh12/aniwatch-api/compare/v2.1.0...v2.1.1) (2024-10-30)
+
+
+
 # [2.1.0](https://github.com/ghoshRitesh12/aniwatch-api/compare/v2.0.2...v2.1.0) (2024-10-29)
 
 
@@ -54,16 +58,6 @@
 * feat: update main server file
 
 * feat: update peronal deployments caution section
-
-
-
-# [1.40.0](https://github.com/ghoshRitesh12/aniwatch-api/compare/v1.39.0...v1.40.0) (2024-10-04)
-
-
-### Features
-
-* **future:** add hianime_v2 image ([1bba988](https://github.com/ghoshRitesh12/aniwatch-api/commit/1bba988e0d241121b51f9d9a9822da1237bd8aa8))
-* **future:** add hianime_v2 social img ([332feca](https://github.com/ghoshRitesh12/aniwatch-api/commit/332feca25f9f287d5cdf82a5bb8cf8ebe2210d67))
 
 
 
